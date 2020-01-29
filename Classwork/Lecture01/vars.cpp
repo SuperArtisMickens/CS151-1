@@ -100,5 +100,29 @@ int main()
     cout << "v11 : " << v11 << "\n";
     cout << "v12 : " << v12 << "\n";   
 
+    /*Typecasting is the process of converting a data type to another
+    data type. Some data types can be implicitly typecasted, while 
+    others need to be explicitly typecasted or cannot be typecasted
+    at all.*/
+
+    /*Implicit Typecast*/
+    /*Integer Type to Integer Type*/
+
+    /*Floating-Point Type to Integer Type*/
+
+    /*Integer Type to Floating-Point Type*/
+
+    /*Floating-Point Type to Floating-Point Type*/
+    
+    /*Char Type to Integer Type*/
+
+    /*Integer Type to Char Type (With Restrictions)*/
+
+    /*Integer Type to Boolean Type*/
+
+    /*Boolean Type to Integer Type*/
+
+    /*Char Type to String Type*/
+
     return 0;
 }
